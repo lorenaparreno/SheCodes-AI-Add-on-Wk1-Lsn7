@@ -18,6 +18,6 @@ new Typewriter("h2", {
   strings: "Lorena Parreno",
   autoStart: true,
   cursor: "",
-  delay: 10,
+  delay: 100,
 });
 
